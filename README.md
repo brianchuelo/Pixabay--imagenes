@@ -1,2 +1,2 @@
 # Pixabay--imagenes
-buscador de imagenes a traves del consumo de la api de pixabay
+Buscador de imágenes a través del consumo de la API de Pixabay
